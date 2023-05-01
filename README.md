@@ -7,5 +7,6 @@
 - add is the process to add a file to the Git staging area
 - commit is the process to save the files from the Git staging area to the version control
 	- 'git commit -m "MY MESSAGE" : quick oneliner message 
-
+- 'git log' : log view with the full log
+	- git log --oneline  : one line view
 
