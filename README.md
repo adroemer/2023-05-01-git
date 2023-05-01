@@ -18,5 +18,5 @@
 - 'git checkout <HASH>': move HEAD to <HASH>
 	- YOU WILL BE IN a detached HEAD state
 	-'git switch main': switches back to main HEAD
-
+- 
 
